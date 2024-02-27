@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\users\\aline\\source\\repos\\projetomvc\\projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\users\\aline\\source\\repos\\projetomvc\\projetomvc\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\users\\aline\\source\\repos\\projetomvc\\projetomvc\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\users\\aline\\source\\repos\\projetomvc\\projetomvc\\projetomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:projetomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\users\\aline\\source\\repos\\projetomvc\\projetomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\users\\aline\\source\\repos\\projetomvc\\projetomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:37:29.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgendaContext.cs",
+              "DocumentMoniker": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Context\\AgendaContext.cs",
+              "RelativeDocumentMoniker": "Context\\AgendaContext.cs",
+              "ToolTip": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Context\\AgendaContext.cs",
+              "RelativeToolTip": "Context\\AgendaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:38:07.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjetoMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
+              "RelativeDocumentMoniker": "ProjetoMVC.csproj",
+              "ToolTip": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
+              "RelativeToolTip": "ProjetoMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T12:32:24.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Models\\Contato.cs",
+              "RelativeToolTip": "Models\\Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:34:44.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:45:51.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T12:40:15.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
