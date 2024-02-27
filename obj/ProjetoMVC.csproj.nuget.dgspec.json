@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj": {}
+    "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj": {
+    "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectUniqueName": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
         "projectName": "ProjetoMVC",
-        "projectPath": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectPath": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
         "packagesPath": "C:\\Users\\aline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\obj\\",
+        "outputPath": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aline\\AppData\\Roaming\\NuGet\\NuGet.Config",

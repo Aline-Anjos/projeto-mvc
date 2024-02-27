@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t2IkYpX4h7qt84gBPpA9honxKwwfuJV2asTmozJvO8rsFLHXVu4B6NcQFfujkowEbby/rHx0nKxmtffldGKAvw==",
+  "dgSpecHash": "/5sNYfSfX/Ujw1I2ZiZL9nVieBrZw8qw7705we60iE2NmvxsQ7w9iiDlY2dIxt4wOXxymhiYI6JKe1RE8A8OZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aline\\source\\repos\\ProjetoMVC\\ProjetoMVC\\ProjetoMVC.csproj",
+  "projectFilePath": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aline\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\aline\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
