@@ -32,13 +32,3 @@ C:\Users\aline\source\repos\ProjetoMVC\ProjetoMVC\obj\Debug\net6.0\refint\Projet
 C:\Users\aline\source\repos\ProjetoMVC\ProjetoMVC\obj\Debug\net6.0\ProjetoMVC.pdb
 C:\Users\aline\source\repos\ProjetoMVC\ProjetoMVC\obj\Debug\net6.0\ProjetoMVC.genruntimeconfig.cache
 C:\Users\aline\source\repos\ProjetoMVC\ProjetoMVC\obj\Debug\net6.0\ref\ProjetoMVC.dll
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\ProjetoMVC.exe
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\ProjetoMVC.dll
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Projetos\Projeto-MVC\ProjetoMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
