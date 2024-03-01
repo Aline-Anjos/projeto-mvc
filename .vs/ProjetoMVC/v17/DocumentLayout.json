@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\projetos\\projeto-mvc\\projetomvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\projetos\\projeto-mvc\\projetomvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Criar.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T01:10:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Contato\\Index.cshtml",
@@ -62,25 +79,23 @@
               "RelativeToolTip": "Views\\Contato\\Index.cshtml",
               "ViewState": "AQIAABwAAAAAAAAAAAAQwDEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T02:58:04.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T02:58:04.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContatoController.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Controllers\\ContatoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
               "ToolTip": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Controllers\\ContatoController.cs",
               "RelativeToolTip": "Controllers\\ContatoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T02:53:45.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T02:53:45.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProjetoMVC.csproj",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
               "RelativeDocumentMoniker": "ProjetoMVC.csproj",
@@ -92,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -104,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -116,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AgendaContext.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Context\\AgendaContext.cs",
               "RelativeDocumentMoniker": "Context\\AgendaContext.cs",
@@ -128,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Contato.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Models\\Contato.cs",
               "RelativeDocumentMoniker": "Models\\Contato.cs",
@@ -140,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DbContext.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Context\\DbContext.cs",
               "RelativeDocumentMoniker": "Context\\DbContext.cs",
@@ -152,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AgendaContext.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Context\\AgendaContext.cs",
               "RelativeDocumentMoniker": "Context\\AgendaContext.cs",
