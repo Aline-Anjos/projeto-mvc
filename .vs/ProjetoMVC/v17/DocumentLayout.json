@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\projetos\\projeto-mvc\\projetomvc\\views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|c:\\projetos\\projeto-mvc\\projetomvc\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB92B303-823C-42C5-8203-F80609DDE0A7}|ProjetoMVC.csproj|solutionrelative:views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,18 +67,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contato\\Editar.cshtml",
-              "ToolTip": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
-              "RelativeToolTip": "Views\\Contato\\Editar.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Detalhes.cshtml",
+              "ToolTip": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Detalhes.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-01T18:10:10.743Z"
+              "WhenOpened": "2024-03-04T14:01:51.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Criar.cshtml",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
               "RelativeDocumentMoniker": "Views\\Contato\\Criar.cshtml",
@@ -86,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Contato\\Index.cshtml",
@@ -104,14 +109,26 @@
               "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
               "ToolTip": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Controllers\\ContatoController.cs",
               "RelativeToolTip": "Controllers\\ContatoController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAIwD4AAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwEQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T02:53:45.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Editar.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T18:10:10.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProjetoMVC.csproj",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
               "RelativeDocumentMoniker": "ProjetoMVC.csproj",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AgendaContext.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Context\\AgendaContext.cs",
               "RelativeDocumentMoniker": "Context\\AgendaContext.cs",
@@ -159,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Contato.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Models\\Contato.cs",
               "RelativeDocumentMoniker": "Models\\Contato.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DbContext.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Context\\DbContext.cs",
               "RelativeDocumentMoniker": "Context\\DbContext.cs",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AgendaContext.cs",
               "DocumentMoniker": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Context\\AgendaContext.cs",
               "RelativeDocumentMoniker": "Context\\AgendaContext.cs",
