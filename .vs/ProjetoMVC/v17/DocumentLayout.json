@@ -70,8 +70,7 @@
               "RelativeToolTip": "Views\\Contato\\Editar.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-01T18:10:10.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T18:10:10.743Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "Views\\Contato\\Criar.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAQwCQAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-01T01:10:52.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T01:10:52.219Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "Views\\Contato\\Index.cshtml",
               "ViewState": "AQIAACIAAAAAAAAAAAAQwDAAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T02:58:04.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T02:58:04.345Z"
             },
             {
               "$type": "Document",
@@ -107,7 +104,7 @@
               "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
               "ToolTip": "C:\\Projetos\\Projeto-MVC\\ProjetoMVC\\Controllers\\ContatoController.cs",
               "RelativeToolTip": "Controllers\\ContatoController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAhwC8AAAAAAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T02:53:45.094Z",
               "EditorCaption": ""
